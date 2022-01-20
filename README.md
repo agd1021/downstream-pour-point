@@ -2,7 +2,7 @@
 Python toolbox for ArcMap Desktop with example data
 
 ## Prepared for the peer-reviewed publication: 
-Drayer, A. N., Guzy, J. C., & Price, S. J. (2020). Factors Influencing the Occupancy and Abundance of Streamside Salamander (Ambystoma barbouri) in Kentucky Streams. Journal of Herpetology, 54(3), 299-305. doi:10.1670/19-015
+Drayer, A. N., Guzy, J. C., & Price, S. J. (2020). Factors Influencing the Occupancy and Abundance of Streamside Salamander (<i>Ambystoma barbouri</i>) in Kentucky Streams. Journal of Herpetology, 54(3), 299-305. doi:10.1670/19-015
 
 ## Summary
 To estimate the impact of land use and land cover on salamander occupancy along a stream network in Kentucky, herpetologists needed to measure percentage of land uses within local watersheds around survey point locations. A "local" watershed around a stream sampling site, in this case, was the watershed of all tributaries with a Strahler Order less than or equal to the Strahler Order of the sampled stream. The tool "DownstreamPourPoints" locates the confluence downstream of a survey site at which the Strahler Order increases along the given stream network. The output location can be used as a pour point to construct a local watershed.
